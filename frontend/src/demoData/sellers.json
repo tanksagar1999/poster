@@ -1,0 +1,212 @@
+[
+  {
+    "id": "1",
+    "receipt_number": "BL-2025-2996",
+    "created": "MAY 12, 2021, 4:17 PM",
+    "channel": "Zometo",
+    "customer_mobile": "988976888",
+    "fulfilled_status": "Fullfilled",
+    "payment_status": "Paid",
+    "total": "$273.00"
+  },
+  {
+    "id": "2",
+    "receipt_number": "TL-2025-2996",
+    "created": "Mar 12, 2021, 4:17 PM",
+    "channel": "Swiggi",
+    "customer_mobile": "988976888",
+    "fulfilled_status": "Fullfilled",
+    "payment_status": "Paid",
+    "total": "$273.00"
+  },
+  {
+    "id": "3",
+    "receipt_number": "CL-2025-2996",
+    "created": "FEB 12 2021 4:17 PM",
+    "channel": "Zometo",
+    "customer_mobile": "988976888",
+    "fulfilled_status": "Fullfilled",
+    "payment_status": "Paid",
+    "total": "$273.00"
+  },
+  {
+    "id": "4",
+    "receipt_number": "EL-2025-2996",
+    "created": "Jan 12 2021 4:17 PM",
+    "channel": "Zometo",
+    "customer_mobile": "988976888",
+    "fulfilled_status": "Unfulfilled",
+    "payment_status": "Paid",
+    "total": "$273.00"
+  },
+  {
+    "id": "5",
+    "receipt_number": "EL-2025-2996",
+    "created": "APR 12, 2021, 4:17 PM",
+    "channel": "Zometo",
+    "customer_mobile": "988976888",
+    "fulfilled_status": "Fullfilled",
+    "payment_status": "Paid",
+    "total": "$273.00"
+  },
+  {
+    "id": "6",
+    "receipt_number": "EL-2025-2996",
+    "created": "Jan 12 2021 4:17 PM",
+    "channel": "Zometo",
+    "customer_mobile": "988976887",
+    "fulfilled_status": "Unfulfilled",
+    "payment_status": "Paid",
+    "total": "$273.00"
+  },
+  {
+    "id": "7",
+    "receipt_number": "EL-2025-2996",
+    "created": "Jan 12 2021 4:17 PM",
+    "channel": "Zometo",
+    "customer_mobile": "988976888",
+    "fulfilled_status": "Unfulfilled",
+    "payment_status": "Unpaid",
+    "total": "$273.00"
+  },
+  {
+    "id": "8",
+    "receipt_number": "EL-2025-2996",
+    "created": "Jan 12 2021 4:17 PM",
+    "channel": "Zometo",
+    "customer_mobile": "988976888",
+    "fulfilled_status": "Unfulfilled",
+    "payment_status": "Paid",
+    "total": "$273.00"
+  },
+  {
+    "id": "9",
+    "receipt_number": "EL-2025-2996",
+    "created": "Jan 12 2021 4:17 PM",
+    "channel": "Zometo",
+    "customer_mobile": "988976888",
+    "fulfilled_status": "Unfulfilled",
+    "payment_status": "Paid",
+    "total": "$273.00"
+  },
+  {
+    "id": "10",
+    "receipt_number": "EL-2025-2996",
+    "created": "Jan 12 2021 4:17 PM",
+    "channel": "Zometo",
+    "customer_mobile": "988976888",
+    "fulfilled_status": "Unfulfilled",
+    "payment_status": "Paid",
+    "total": "$273.00"
+  },
+  {
+    "id": "11",
+    "receipt_number": "EL-2025-2996",
+    "created": "Jan 12 2021 4:17 PM",
+    "channel": "Zometo",
+    "customer_mobile": "988976888",
+    "fulfilled_status": "Unfulfilled",
+    "payment_status": "Paid",
+    "total": "$273.00"
+  },
+  {
+    "id": "12",
+    "receipt_number": "EL-2025-2996",
+    "created": "Jan 12 2021 4:17 PM",
+    "channel": "Zometo",
+    "customer_mobile": "988976888",
+    "fulfilled_status": "Unfulfilled",
+    "payment_status": "Paid",
+    "total": "$273.00"
+  },
+  {
+    "id": "13",
+    "receipt_number": "EL-2025-2996",
+    "created": "Jan 12 2021 4:17 PM",
+    "channel": "Zometo",
+    "customer_mobile": "988976888",
+    "fulfilled_status": "Unfulfilled",
+    "payment_status": "Paid",
+    "total": "$273.00"
+  },
+  {
+    "id": "14",
+    "receipt_number": "EL-2025-2996",
+    "created": "Jan 12 2021 4:17 PM",
+    "channel": "Zometo",
+    "customer_mobile": "988976888",
+    "fulfilled_status": "Unfulfilled",
+    "payment_status": "Paid",
+    "total": "$273.00"
+  },
+  {
+    "id": "15",
+    "receipt_number": "EL-2025-2996",
+    "created": "Jan 12 2021 4:17 PM",
+    "channel": "Zometo",
+    "customer_mobile": "988976888",
+    "fulfilled_status": "Unfulfilled",
+    "payment_status": "Paid",
+    "total": "$273.00"
+  },
+  {
+    "id": "16",
+    "receipt_number": "EL-2025-2996",
+    "created": "Jan 12 2021 4:17 PM",
+    "channel": "Zometo",
+    "customer_mobile": "988976888",
+    "fulfilled_status": "Unfulfilled",
+    "payment_status": "Paid",
+    "total": "$273.00"
+  },
+  {
+    "id": "17",
+    "receipt_number": "EL-2025-2996",
+    "created": "Jan 12 2021 4:17 PM",
+    "channel": "Zometo",
+    "customer_mobile": "988976888",
+    "fulfilled_status": "Unfulfilled",
+    "payment_status": "Paid",
+    "total": "$273.00"
+  },
+  {
+    "id": "18",
+    "receipt_number": "EL-2025-2996",
+    "created": "Jan 12 2021 4:17 PM",
+    "channel": "Zometo",
+    "customer_mobile": "988976888",
+    "fulfilled_status": "Unfulfilled",
+    "payment_status": "Paid",
+    "total": "$273.00"
+  },
+  {
+    "id": "19",
+    "receipt_number": "EL-2025-2996",
+    "created": "Jan 12 2021 4:17 PM",
+    "channel": "Zometo",
+    "customer_mobile": "988976888",
+    "fulfilled_status": "Unfulfilled",
+    "payment_status": "Paid",
+    "total": "$273.00"
+  },
+  {
+    "id": "20",
+    "receipt_number": "EL-2025-2996",
+    "created": "Jan 12 2021 4:17 PM",
+    "chan20el": "Zometo",
+    "customer_mobile": "988976888",
+    "fulfilled_status": "Unfulfilled",
+    "payment_status": "Paid",
+    "total": "$273.00"
+  },
+  {
+    "id": "21",
+    "receipt_number": "EL-2025-2996",
+    "created": "Jan 12 2021 4:17 PM",
+    "channel": "Zometo",
+    "customer_mobile": "988976888",
+    "fulfilled_status": "Unfulfilled",
+    "payment_status": "Paid",
+    "total": "$273.00"
+  }
+]

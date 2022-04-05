@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "price_book_name": "GOld",
+   "register_name": "Main Register",
+    "order_type": "All Orders"
+  },
+  {
+    "id": 2,
+    "price_book_name": "Platinum",
+    "register_name": "Main Register",
+    "order_type": "Take Away"
+  },
+  {
+    "id": 3,
+    "price_book_name": "Silver",
+    "register_name": "Main Register",
+    "order_type": "Delivery"
+  }
+ 
+
+]

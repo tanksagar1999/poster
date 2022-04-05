@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+  border-collapse: collapse;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+body{
+	font-size: 8px;
+}
+</style>
+</head>
+<body>
+<div style="width: 100%;  ">
+	<div style="text-align: center;">
+	<h3><%= title %></h5>
+	<center>
+	<table style="text-allign : center">
+		<% if (header.length > 0) { %>
+		    <tr>
+			<% header.forEach(head => {%>
+				<th><%= head.header %></th>
+		<%	});%>
+	    	</tr>
+		<% }%>
+
+		<% if (data.length > 0) { %>
+			<% data.forEach(d => {%>
+			 <tr>
+			   <% header.forEach(h => {%>
+			       <% if (h.key in d) { %>
+				       <td><%= d[h.key] %></td>
+				   <% }%>
+			   <%	});%>	
+			 </tr> 
+		<%	});%>
+		<% }%>
+	</table>	
+	</center>
+	</div>
+</div>
+</body>
+</html>
+

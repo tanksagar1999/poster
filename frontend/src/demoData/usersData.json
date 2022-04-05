@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "time": 1587041636455,
+    "name": "Duran Clayton",
+    "designation": "UI/UX Designer",
+    "status": "active",
+    "img": "static/img/users/1.png"
+  },
+  {
+    "id": 2,
+    "time": 1587041711525,
+    "name": "Duran Clayton",
+    "designation": "UI/UX Designer",
+    "status": "deactivate",
+    "img": "static/img/users/2.png"
+  },
+  {
+    "id": 3,
+    "time": 1587041758255,
+    "name": "Duran Clayton",
+    "designation": "UI/UX Designer",
+    "status": "blocked",
+    "img": "static/img/users/3.png"
+  },
+  {
+    "id": 4,
+    "time": 1587041856695,
+    "name": "Duran Clayton",
+    "designation": "UI/UX Designer",
+    "status": "active",
+    "img": "static/img/users/4.png"
+  },
+  {
+    "id": 5,
+    "time": 1587041880519,
+    "name": "Duran Clayton",
+    "designation": "UI/UX Designer",
+    "status": "active",
+    "img": "static/img/users/5.png"
+  },
+  {
+    "id": 6,
+    "time": 1587041932783,
+    "name": "Duran Clayton",
+    "designation": "UI/UX Designer",
+    "status": "active",
+    "img": "static/img/users/6.png"
+  },
+  {
+    "id": 7,
+    "time": 1587041957926,
+    "name": "Duran Clayton",
+    "designation": "UI/UX Designer",
+    "status": "active",
+    "img": "static/img/users/7.png"
+  },
+  {
+    "id": 8,
+    "time": 1587041979566,
+    "name": "Duran Clayton",
+    "designation": "UI/UX Designer",
+    "status": "active",
+    "img": "static/img/users/8.png"
+  }
+]

@@ -1,0 +1,44 @@
+{
+
+"variant" : [
+  {
+    "id": 1,
+    "variant_group_name": "2pc Gulab Jamun",
+    "variants": "2",
+    "sort_order":"-"
+  },
+  {
+    "id": 2,
+    "variant_group_name": "2pc Gulab Jamun",
+    "variants": "2",
+    "sort_order":"-"
+  
+  },
+  {
+    "id":3,
+    "variant_group_name": "30 ML",
+    "variants": "2",
+    "sort_order":"-"
+  
+  },
+  {
+    "id": 4,
+    "variant_group_name": "30 ML",
+    "variants": "2",
+    "sort_order":"-"
+  },
+  {
+    "id": 5,
+    "variant_group_name": "2pc Gulab Jamun",
+    "variants": "2",
+    "sort_order":"-"
+  },
+  {
+    "id": 6,
+    "variant_group_name": "2pc Gulab Jamun",
+    "variants": "2",
+    "sort_order":"-"
+  }
+]
+
+}

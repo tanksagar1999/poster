@@ -1,0 +1,57 @@
+{
+"variant" : [
+  {
+    "id": 1,
+    "Source":"Zometo Elegance",
+    "order_id":"1234",
+    "Time":"12:00",
+    "Items":"Chicken Biryani",
+    "Value":"208 Paid",
+    "Type":"Partner Delivery",
+    "Customer":"Jemi Miller 9878899899"
+
+  },
+  {
+    "id": 2,
+    "Source":"Zometo",
+    "order_id":"1234",
+    "Time":"12:00",
+    "Items":"Chicken Biryani",
+    "Value":"208 Paid",
+    "Type":"Partner Delivery",
+    "Customer":"Jemi Miller 9878899899"
+
+  },
+  {
+    "id": 3,
+    "Source":"Swiggy",
+    "order_id":"1234",
+    "Time":"12:00",
+    "Items":"Chicken Biryani",
+    "Value":"208 Paid",
+    "Type":"Partner Delivery",
+    "Customer":"Jemi Miller 9878899899"
+
+  },
+  {
+    "id": 4,
+    "Source":"Zometo",
+    "order_id":"1234",
+    "Time":"12:00",
+    "Items":"Chicken Biryani",
+    "Value":"208 Paid",
+    "Type":"Partner Delivery",
+    "Customer":"Jemi Miller 9878899899"
+  },
+  {
+    "id": 5,
+    "Source":"Swiggy",
+    "order_id":"1234",
+    "Time":"12:00",
+    "Items":"Chicken Biryani",
+    "Value":"208 Paid",
+    "Type":"Partner Delivery",
+    "Customer":"Jemi Miller 9878899899"
+  }
+]
+}

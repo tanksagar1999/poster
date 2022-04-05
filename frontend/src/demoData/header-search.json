@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "receipt_numbr": "BL-BTU-2025-2996",
+    "created": "Mar 12, 2021, 4:17 PM",
+    "channel": "Zometo",
+    "customer_mobile": "988976888",
+    "fulfilled_status": "Fullfilled",
+    "payment_status": "Paid",
+    "total": "$273.00"
+  },
+  {
+    "id": "2",
+    "receipt_numbr": "TL-BTU-2025-2996",
+    "created": "Mar 12, 2021, 4:17 PM",
+    "channel": "Zometo",
+    "customer_mobile": "988976888",
+    "fulfilled_status": "Fullfilled",
+    "payment_status": "Paid",
+    "total": "$273.00"
+  },
+  {
+    "id": "3",
+    "receipt_numbr": "CL-BTU-2025-2996",
+    "created": "Mar 12, 2021, 4:17 PM",
+    "channel": "Zometo",
+    "customer_mobile": "988976888",
+    "fulfilled_status": "Fullfilled",
+    "payment_status": "Paid",
+    "total": "$273.00"
+  },
+  {
+    "id": "4",
+    "receipt_numbr": "EL-BTU-2025-2996",
+    "created": "Mar 12, 2021, 4:17 PM",
+    "channel": "Zometo",
+    "customer_mobile": "988976888",
+    "fulfilled_status": "Unfulfilled",
+    "payment_status": "Paid",
+    "total": "$273.00"
+  },
+  {
+    "id": "5",
+    "receipt_numbr": "EL-BTU-2025-2996",
+    "created": "Mar 12, 2021, 4:17 PM",
+    "channel": "Zometo",
+    "customer_mobile": "988976888",
+    "fulfilled_status": "Fullfilled",
+    "payment_status": "Paid",
+    "total": "$273.00"
+  }
+]

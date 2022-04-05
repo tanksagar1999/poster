@@ -1,0 +1,43 @@
+{
+  "variant" :[
+  {
+    "id": 1,
+   "addon_group_name": "Beverage",
+    "addons": "2",
+    "sort_order":"-"
+  },
+  {
+    "id": 2,
+   "addon_group_name": "Dessert",
+    "addons": "2",
+    "sort_order":"-"
+  
+  },
+  {
+    "id":3,
+    "addon_group_name": "Dessert",
+    "addons": "2",
+    "sort_order":"-"
+  
+  },
+  {
+    "id": 4,
+    "addon_group_name": "Beverage",
+    "addons": "2",
+    "sort_order":"-"
+  },
+  {
+    "id": 5,
+   "addon_group_name": "Beverage",
+    "addons": "2",
+    "sort_order":"-"
+  },
+  {
+    "id": 6,
+   "addon_group_name": "Beverage",
+    "addons": "2",
+    "sort_order":"-"
+  }
+]
+
+}

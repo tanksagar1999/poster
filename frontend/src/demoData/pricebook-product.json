@@ -1,0 +1,217 @@
+{
+"data" :[
+  {
+    "id": 1,
+    "product_name": "100 Pipers (12 Yo)",
+    "price": "$250",
+    "is_price_overridden":"-",
+    "category": "Beer"
+  },
+  {
+    "id": 2,
+    "product_name": "100 Pipers (12 Yo)",
+    "price": 220,
+    "is_price_overridden":"-",
+    "category": "Vodaka"
+  },
+  {
+    "id": 3,
+    "product_name": "100 Pipers (12 Yo)",
+    "price": 220,
+    "is_price_overridden":"-",
+    "category": "Vodaka"
+ },
+  {
+    "id": 4,
+    "product_name": "100 Pipers (12 Yo)",
+    "price": 220,
+    "is_price_overridden":"-",
+    "category": "Vodaka"
+  },
+  {
+    "id": 5,
+    "product_name": "100 Pipers (12 Yo)",
+    "price": 220,
+    "is_price_overridden":"-",
+    "category": "Vodaka"
+  },
+  {
+    "id": 6,
+    "product_name": "100 Pipers (12 Yo)",
+    "price": 220,
+    "is_price_overridden":"-",
+    "category": "Vodaka"
+  },
+  {
+    "id": 7,
+    "product_name": "100 Pipers (12 Yo)",
+    "price": 220,
+    "is_price_overridden":"-",
+    "category": "Vodaka"
+  },
+  {
+    "id":8,
+    "product_name": "100 Pipers (12 Yo)",
+    "price": 220,
+    "is_price_overridden":"-",
+    "category": "Vodaka"
+  },
+  {
+    "id": 9,
+    "product_name": "100 Pipers (12 Yo)",
+    "price": 220,
+    "is_price_overridden":"-",
+    "category": "Vodaka"
+  },
+  {
+    "id": 10,
+    "product_name": "100 Pipers (12 Yo)",
+    "price": 220,
+    "is_price_overridden":"-",
+    "category": "Vodaka"
+  },
+  {
+    "id": 11,
+    "product_name": "100 Pipers (12 Yo)",
+    "price": 220,
+    "tax_group": "VAT 5",
+    "category": "Beer"
+  },
+  {
+    "id": 12,
+    "product_name": "100 Pipers (12 Yo)",
+    "price": 220,
+    "is_price_overridden":"-",
+    "category": "Vodaka"
+  },
+  {
+    "id": 13,
+    "product_name": "100 Pipers (12 Yo)",
+    "price": 220,
+    "is_price_overridden":"-",
+    "category": "Beer"
+  },
+  {
+    "id": 14,
+    "product_name": "100 Pipers (12 Yo)",
+    "price": 220,
+    "is_price_overridden":"-",
+    "category": "Vodaka"
+  }
+
+],
+"addonData" :[
+  {
+    "id": 1,
+    "addon_name": "Coke",
+    "addon_group": "Dessert",
+    "addon_price": "250",
+    "is_price_overridden":"-"
+   
+  },
+  {
+    "id": 2,
+    "addon_name": "Coke",
+    "addon_group": "Dessert",
+    "addon_price": "250",
+    "is_price_overridden":"-"
+   
+  },
+  {
+    "id": 3,
+    "addon_name": "Coke",
+    "addon_group": "Beverages",
+    "addon_price": "250",
+    "is_price_overridden":"-"
+   
+  },
+  {
+    "id": 4,
+    "variant_name": "2Pc Hot Gulab Jamun",
+    "addon_group": "Beverages",
+    "addon_price": "250",
+    "is_price_overridden":"-"
+
+  },
+  {
+    "id": 5,
+    "addon_name": "Coke",
+    "addon_group": "Dessert",
+    "addon_price": "250",
+    "is_price_overridden":"-"
+   
+  },
+  {
+    "id": 6,
+    "addon_name": "2Pc Hot Gulab Jamun",
+    "addon_group": "Beverages",
+    "addon_price": "250",
+    "is_price_overridden":"-"
+   
+  },
+  {
+    "id": 7,
+    "addon_name": "2Pc Hot Gulab Jamun",
+    "addon_group": "Beverages",
+    "addon_price": "250",
+    "is_price_overridden":"-"
+  }
+],
+"variant" :[
+  {
+    "id": 1,
+    "variant_name": "1 Butter Naan (Choice of Breads)",
+    "varian_group": "Choice of Breads",
+    "varian_price": "250",
+    "is_price_overridden":"-"
+   
+  },
+  {
+    "id": 2,
+    "variant_name": "1 Butter Naan (Choice of Breads)",
+    "varian_group": "Choice of Breads",
+    "varian_price": "250",
+    "is_price_overridden":"-"
+   
+  },
+  {
+    "id": 3,
+    "variant_name": "1 Butter Naan (Choice of Breads)",
+    "varian_group": "Choice of Breads",
+    "varian_price": "250",
+    "is_price_overridden":"-"
+   
+  },
+  {
+    "id": 4,
+    "variant_name": "1 Butter Naan (Choice of Breads)",
+    "varian_group": "Choice of Breads",
+    "varian_price": "250",
+    "is_price_overridden":"-"
+
+  },
+  {
+    "id": 5,
+    "variant_name": "1 Butter Naan (Choice of Breads)",
+    "varian_group": "Choice of Breads",
+    "varian_price": "250",
+    "is_price_overridden":"-"
+   
+  },
+  {
+    "id": 6,
+    "variant_name": "1 Butter Naan (Choice of Breads)",
+    "varian_group": "Choice of Breads",
+    "varian_price": "250",
+    "is_price_overridden":"-"
+   
+  },
+  {
+    "id": 7,
+    "variant_name": "1 Butter Naan (Choice of Breads)",
+    "varian_group": "Choice of Breads",
+    "varian_price": "250",
+    "is_price_overridden":"-"
+  }
+]
+}

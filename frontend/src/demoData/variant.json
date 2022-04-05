@@ -1,0 +1,54 @@
+{
+"variant" :[
+  {
+    "id": 1,
+    "variant_name": "2pc Gulab Jamun",
+    "varian_comment": "Choice of Desserts",
+    "price": "All Orders",
+    "sort_order":"-",
+    "is_linked_to_variant_group":"Yes"
+  },
+  {
+    "id": 2,
+    "variant_name": "2pc Gulab Jamun",
+    "varian_comment": "Choice of Desserts",
+    "price": "All Orders",
+    "sort_order":"-",
+    "is_linked_to_variant_group":"Yes"
+  },
+  {
+    "id":3,
+    "variant_name": "30 ML",
+    "varian_comment": "Choice of Desserts",
+    "price": "All Orders",
+    "sort_order":"-",
+    "is_linked_to_variant_group":"Yes"
+  },
+  {
+    "id": 4,
+    "variant_name": "30 ML",
+    "varian_comment": "Choice of Desserts",
+    "price": "All Orders",
+    "sort_order":"-",
+    "is_linked_to_variant_group":"Yes"
+  },
+  {
+    "id": 5,
+    "variant_name": "2pc Gulab Jamun",
+    "varian_comment": "Choice of Desserts",
+    "price": "All Orders",
+    "sort_order":"-",
+    "is_linked_to_variant_group":"Yes"
+  },
+  {
+    "id": 6,
+    "variant_name": "2pc Gulab Jamun",
+    "varian_comment": "Choice of Desserts",
+    "price": "All Orders",
+    "sort_order":"-",
+    "is_linked_to_variant_group":"Yes"
+  }
+
+]
+
+}

@@ -1,0 +1,115 @@
+[
+  {
+    "id": 1,
+    "customer_name": "Jemi Miller",
+    "mobile": "9877899678",
+     "order_count": "18",
+    "order_value" : "₹472",
+    "last_seen" : "Mar 26, 2021, 2:45 PM"
+  },
+  {
+    "id": 2,
+    "customer_name": "Jemi Miller",
+    "mobile": "9877899678",
+     "order_count": "18",
+    "order_value" : "₹472",
+    "last_seen" : "Mar 26, 2021, 2:45 PM"
+  },
+  {
+    "id": 3,
+    "customer_name": "Jemi Miller",
+    "mobile": "9877899678",
+     "order_count": "18",
+    "order_value" : "₹472",
+    "last_seen" : "Mar 26, 2021, 2:45 PM"
+ },
+  {
+    "id": 4,
+    "customer_name": "Jemi Miller",
+    "mobile": "9877899678",
+     "order_count": "18",
+    "order_value" : "₹472",
+    "last_seen" : "Mar 26, 2021, 2:45 PM"
+  },
+  {
+    "id": 5,
+    "customer_name": "Jemi Miller",
+    "mobile": "9877899678",
+     "order_count": "18",
+    "order_value" : "₹472",
+    "last_seen" : "Mar 26, 2021, 2:45 PM"
+  },
+  {
+    "id": 6,
+    "customer_name": "Jemi Miller",
+    "mobile": "9877899678",
+     "order_count": "18",
+    "order_value" : "₹472",
+    "last_seen" : "Mar 26, 2021, 2:45 PM"
+  },
+  {
+    "id": 7,
+    "customer_name": "Jemi Miller",
+    "mobile": "9877899678",
+     "order_count": "18",
+    "order_value" : "₹472",
+    "category": "Vodaka"
+  },
+  {
+    "id":8,
+    "customer_name": "Jemi Miller",
+    "mobile": "9877899678",
+     "order_count": "18",
+    "order_value" : "₹472",
+    "last_seen" : "Mar 26, 2021, 2:45 PM"
+  },
+  {
+    "id": 9,
+    "customer_name": "Jemi Miller",
+    "mobile": "9877899678",
+     "order_count": "18",
+    "order_value" : "₹472",
+    "last_seen" : "Mar 26, 2021, 2:45 PM"
+  },
+  {
+    "id": 10,
+    "customer_name": "Jemi Miller",
+    "mobile": "9877899678",
+     "order_count": "18",
+    "order_value" : "₹472",
+    "last_seen" : "Mar 26, 2021, 2:45 PM"
+  },
+  {
+    "id": 11,
+    "customer_name": "Jemi Miller",
+    "mobile": "9877899678",
+    "tax_group": "VAT 5",
+    "order_value" : "₹472",
+    "category": "Beer"
+  },
+  {
+    "id": 12,
+    "customer_name": "Jemi Miller",
+    "mobile": "9877899678",
+     "order_count": "18",
+    "order_value" : "₹472",
+    "last_seen" : "Mar 26, 2021, 2:45 PM"
+  },
+  {
+    "id": 13,
+    "customer_name": "Jemi Miller",
+    "mobile": "9877899678",
+     "order_count": "18",
+    "order_value" : "₹472",
+    "last_seen" : "Mar 26, 2021, 2:45 PM"
+  },
+  {
+    "id": 14,
+    "customer_name": "Jemi Miller",
+    "mobile": "9877899678",
+     "order_count": "18",
+    "order_value" : "₹472",
+    "last_seen" : "Mar 26, 2021, 2:45 PM"
+  }
+
+]

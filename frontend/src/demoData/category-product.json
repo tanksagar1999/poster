@@ -1,0 +1,53 @@
+{
+"caterogyData" :[
+  {
+    "id": 1,
+    "category_name": "Soups",
+    "sort_order": "1"
+  },
+  {
+    "id": 2,
+    "category_name": "Sandwiches & Pizzas",
+    "sort_order": "2"
+  },
+  {
+    "id": 3,
+    "category_name": "Oriental Straters",
+    "sort_order": "3"
+  },
+  {
+    "id": 4,
+    "category_name": "Tandoori Straters",
+    "sort_order": "4"
+  },
+  {
+    "id": 5,
+    "category_name": "Continental Starters",
+    "sort_order": "5"
+  },
+  {
+    "id": 6,
+    "category_name": "Indian Non Veg Main Course",
+    "sort_order": "6"
+  },
+  {
+    "id": 7,
+    "category_name": "Salad & Raita",
+    "sort_order": "7"
+  }
+],
+"ticketGroupdata" :[
+  {
+    "id": 1,
+    "order_ticket_group_name": "Main Kitchen"
+  },
+  {
+    "id": 2,
+    "order_ticket_group_name": "Main Kitchen"
+  },
+  {
+    "id": 3,
+    "order_ticket_group_name": "Bar Section"
+  }
+]
+}

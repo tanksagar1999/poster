@@ -1,0 +1,47 @@
+{
+  
+"addon" : [
+  {
+    "id": 1,
+     "addon_name": "Coke",
+      "price": "20",
+     "sort_order":"-",
+     "is_linked_to_addon_group":"Yes"
+  },
+  {
+    "id": 2,
+     "addon_name": "2pc Gulab Jamun",
+     "price": "20",
+    "sort_order":"-",
+    "is_linked_to_addon_group":"Yes"
+  },
+  {
+    "id":3,
+    "addon_name": "2pc Gulab Jamun",
+     "price": "20",
+    "sort_order":"-",
+    "is_linked_to_addon_group":"Yes"
+  },
+  {
+    "id": 4,
+    "addon_name": "2pc Gulab Jamun",
+     "price": "20",
+    "sort_order":"-",
+    "is_linked_to_addon_group":"Yes"
+  },
+  {
+    "id": 5,
+     "addon_name": "Coke",
+     "price": "20",
+    "sort_order":"-",
+    "is_linked_to_addon_group":"Yes"
+  },
+  {
+    "id": 6,
+     "addon_name": "2pc Gulab Jamun",
+     "price": "20",
+    "sort_order":"-",
+    "is_linked_to_addon_group":"Yes"
+  }
+]
+}

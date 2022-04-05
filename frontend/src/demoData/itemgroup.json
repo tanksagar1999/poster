@@ -1,0 +1,42 @@
+{
+"variant" : [
+  {
+    "id": 1,
+    "Item_group_name": "custom",
+    "Items": "1"
+    
+  },
+  {
+    "id": 2,
+    "Item_group_name": "custom",
+    "Items": "1"
+    
+  
+  },
+  {
+    "id":3,
+    "Item_group_name": "30 ML",
+    "Items": "1"
+    
+  
+  },
+  {
+    "id": 4,
+    "Item_group_name": "30 ML",
+    "Items": "1"
+    
+  },
+  {
+    "id": 5,
+    "Item_group_name": "custom",
+    "Items": "1"
+    
+  },
+  {
+    "id": 6,
+    "Item_group_name": "custom",
+    "Items": "1"
+    
+    }
+  ]
+}
